@@ -62,4 +62,4 @@ let book = {
     genre: "fiction"
 }
 
-displayBookDetails(book);
+// displayBookDetails(book);
