@@ -1,0 +1,22 @@
+:root {
+    --title-color: blue;
+}
+
+h1 {
+    color: var(--title-color);
+    border: solid black;
+    padding: 10px;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    font-size: 36px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#intro {
+    color: green !important;
+}
